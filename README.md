@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/rksatish87/AzureCICD%20Lab/_apis/build/status%2Fsonierk.js-e2e-express-server?branchName=main)](https://dev.azure.com/rksatish87/AzureCICD%20Lab/_build/latest?definitionId=4&branchName=main)
 ---
 page_type: sample
 languages:
